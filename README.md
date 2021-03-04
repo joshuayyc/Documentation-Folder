@@ -7,6 +7,12 @@ Here are the instructions for installation.
 ## Usage:
 Here are the instructions for usage.
 Here is a test for inline code. `code` `strong` `super`
+Here is a list of animals:
+- dogs
+- cats
+
+## Contribution:
+Here is how to contribute to this project. ```Project contribution ```
 
 ## Licensing:
 Here are the licensing instructions.
